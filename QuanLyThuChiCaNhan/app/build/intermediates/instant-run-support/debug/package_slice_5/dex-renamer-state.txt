@@ -1,0 +1,4 @@
+#Fri Oct 13 08:10:21 ICT 2017
+base.0=D\:\\APPDOAN\\UngDung16DoAnA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=D\:\\APPDOAN\\UngDung16DoAnA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

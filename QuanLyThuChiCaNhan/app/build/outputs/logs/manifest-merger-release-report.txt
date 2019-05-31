@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\95f50f3cd273601e668c6f4d03b3eebb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b2b624ab558e9f178c6b4ef4daaa33c8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e54ed207522e6ca3d0d8dd142b623bff\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a6988b3b03972163723fa37bff650de\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0fe83520d317c88d1cb6591e5b72e08f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3aafab4fd1f32f33b3d0c82d742720f8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9667a9dd72a01eaa563f28966b0b9458\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\511483b463928edd39e26837ef197dfb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d1b52a3c8d7f57b25da8b6a0eb7f0509\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f0aa6d0d17350fde289bc9efb69ba4a9\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:5:5-37:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\95f50f3cd273601e668c6f4d03b3eebb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\95f50f3cd273601e668c6f4d03b3eebb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b2b624ab558e9f178c6b4ef4daaa33c8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b2b624ab558e9f178c6b4ef4daaa33c8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e54ed207522e6ca3d0d8dd142b623bff\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e54ed207522e6ca3d0d8dd142b623bff\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a6988b3b03972163723fa37bff650de\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a6988b3b03972163723fa37bff650de\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0fe83520d317c88d1cb6591e5b72e08f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0fe83520d317c88d1cb6591e5b72e08f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3aafab4fd1f32f33b3d0c82d742720f8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3aafab4fd1f32f33b3d0c82d742720f8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9667a9dd72a01eaa563f28966b0b9458\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9667a9dd72a01eaa563f28966b0b9458\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\511483b463928edd39e26837ef197dfb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\511483b463928edd39e26837ef197dfb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d1b52a3c8d7f57b25da8b6a0eb7f0509\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d1b52a3c8d7f57b25da8b6a0eb7f0509\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f0aa6d0d17350fde289bc9efb69ba4a9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f0aa6d0d17350fde289bc9efb69ba4a9\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:11:9-40
+activity#vn.com.dtt.ungdung16doana.BeforeLogOn.SplashActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:12:19-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:16:27-74
+activity#vn.com.dtt.ungdung16doana.LogOnActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:19:19-48
+activity#vn.com.dtt.ungdung16doana.Register.RegisterActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:20:9-63
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:20:19-60
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Ui1Activity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:21:9-60
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:21:19-57
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Account.AddAccountActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:22:9-84
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:22:19-72
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.AdminUIActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:23:9-73
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:23:19-61
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Admin.AddWalletType
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:24:9-77
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:24:19-65
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Admin.AddCurrentMoney
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:25:9-79
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:25:19-67
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Admin.AddIncomeType
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:26:9-77
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:26:19-65
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Admin.AddOutcomeType
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:27:9-78
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:27:19-66
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Account.AccountsMainActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:28:9-86
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:28:19-74
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Account.IncomeActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:29:9-80
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:29:19-68
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Account.IncomeHistoryActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:30:9-87
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:30:19-75
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Account.OutLineHistoryActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:31:9-88
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:31:19-76
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Account.OutcomeActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:32:9-81
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:32:19-69
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Account.OutcomeHistoryActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:33:9-88
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:33:19-76
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Account.MakeStatisticActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:34:9-87
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:34:19-75
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Account.IncomeBarGraphActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:35:9-88
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:35:19-76
+activity#vn.com.dtt.ungdung16doana.AfterLogOn.Account.OutcomeBarGraphActivity
+ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:36:9-89
+	android:name
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml:36:19-77
+uses-sdk
+INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\95f50f3cd273601e668c6f4d03b3eebb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\95f50f3cd273601e668c6f4d03b3eebb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b2b624ab558e9f178c6b4ef4daaa33c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b2b624ab558e9f178c6b4ef4daaa33c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e54ed207522e6ca3d0d8dd142b623bff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e54ed207522e6ca3d0d8dd142b623bff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a6988b3b03972163723fa37bff650de\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a6988b3b03972163723fa37bff650de\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0fe83520d317c88d1cb6591e5b72e08f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0fe83520d317c88d1cb6591e5b72e08f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3aafab4fd1f32f33b3d0c82d742720f8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3aafab4fd1f32f33b3d0c82d742720f8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9667a9dd72a01eaa563f28966b0b9458\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9667a9dd72a01eaa563f28966b0b9458\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\511483b463928edd39e26837ef197dfb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\511483b463928edd39e26837ef197dfb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d1b52a3c8d7f57b25da8b6a0eb7f0509\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d1b52a3c8d7f57b25da8b6a0eb7f0509\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f0aa6d0d17350fde289bc9efb69ba4a9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f0aa6d0d17350fde289bc9efb69ba4a9\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\95f50f3cd273601e668c6f4d03b3eebb\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+		ADDED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+		INJECTED from D:\APPDOAN\UngDung16DoAnA\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\95f50f3cd273601e668c6f4d03b3eebb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e54ed207522e6ca3d0d8dd142b623bff\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e54ed207522e6ca3d0d8dd142b623bff\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a6988b3b03972163723fa37bff650de\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a6988b3b03972163723fa37bff650de\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0fe83520d317c88d1cb6591e5b72e08f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0fe83520d317c88d1cb6591e5b72e08f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3aafab4fd1f32f33b3d0c82d742720f8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3aafab4fd1f32f33b3d0c82d742720f8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9667a9dd72a01eaa563f28966b0b9458\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9667a9dd72a01eaa563f28966b0b9458\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\511483b463928edd39e26837ef197dfb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\511483b463928edd39e26837ef197dfb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d1b52a3c8d7f57b25da8b6a0eb7f0509\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d1b52a3c8d7f57b25da8b6a0eb7f0509\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f0aa6d0d17350fde289bc9efb69ba4a9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f0aa6d0d17350fde289bc9efb69ba4a9\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\95f50f3cd273601e668c6f4d03b3eebb\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\95f50f3cd273601e668c6f4d03b3eebb\AndroidManifest.xml:26:9-47

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Income Management"
+      android:id="@+id/menuIncomeTM"></item>
+    <item android:title="Outcome Management"
+          android:id="@+id/menuOutcomeTM"></item>
+    <item android:title="Transaction History"
+          android:id="@+id/menuTransactionHistoryTM"></item>
+</menu>

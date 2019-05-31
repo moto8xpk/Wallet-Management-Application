@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vn.com.dtt.ungdung16doana">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bull_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".BeforeLogOn.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LogOnActivity" />
+        <activity android:name=".Register.RegisterActivity" />
+        <activity android:name=".AfterLogOn.Ui1Activity" />
+        <activity android:name=".AfterLogOn.Account.AddAccountActivity"></activity>
+        <activity android:name=".AfterLogOn.AdminUIActivity"></activity>
+        <activity android:name=".AfterLogOn.Admin.AddWalletType"></activity>
+        <activity android:name=".AfterLogOn.Admin.AddCurrentMoney"></activity>
+        <activity android:name=".AfterLogOn.Admin.AddIncomeType"></activity>
+        <activity android:name=".AfterLogOn.Admin.AddOutcomeType"></activity>
+        <activity android:name=".AfterLogOn.Account.AccountsMainActivity"></activity>
+        <activity android:name=".AfterLogOn.Account.IncomeActivity"></activity>
+        <activity android:name=".AfterLogOn.Account.IncomeHistoryActivity"></activity>
+        <activity android:name=".AfterLogOn.Account.OutLineHistoryActivity"></activity>
+        <activity android:name=".AfterLogOn.Account.OutcomeActivity"></activity>
+        <activity android:name=".AfterLogOn.Account.OutcomeHistoryActivity"></activity>
+        <activity android:name=".AfterLogOn.Account.MakeStatisticActivity"></activity>
+        <activity android:name=".AfterLogOn.Account.IncomeBarGraphActivity"></activity>
+        <activity android:name=".AfterLogOn.Account.OutcomeBarGraphActivity"></activity>
+    </application>
+
+</manifest>

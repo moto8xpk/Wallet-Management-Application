@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\APPDOAN\\UngDung16DoAnA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_list_tm.xml",
+        "source": "D:\\APPDOAN\\UngDung16DoAnA\\app\\src\\main\\res\\menu\\menu_list_tm.xml"
+    },
+    {
+        "merged": "D:\\APPDOAN\\UngDung16DoAnA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_wallet.xml",
+        "source": "D:\\APPDOAN\\UngDung16DoAnA\\app\\src\\main\\res\\menu\\menu_wallet.xml"
+    },
+    {
+        "merged": "D:\\APPDOAN\\UngDung16DoAnA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_popup.xml",
+        "source": "D:\\APPDOAN\\UngDung16DoAnA\\app\\src\\main\\res\\menu\\menu_popup.xml"
+    },
+    {
+        "merged": "D:\\APPDOAN\\UngDung16DoAnA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_list_statistic.xml",
+        "source": "D:\\APPDOAN\\UngDung16DoAnA\\app\\src\\main\\res\\menu\\menu_list_statistic.xml"
+    },
+    {
+        "merged": "D:\\APPDOAN\\UngDung16DoAnA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_list_wm.xml",
+        "source": "D:\\APPDOAN\\UngDung16DoAnA\\app\\src\\main\\res\\menu\\menu_list_wm.xml"
+    },
+    {
+        "merged": "D:\\APPDOAN\\UngDung16DoAnA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\APPDOAN\\UngDung16DoAnA\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\AndroidStudioProjects\\UngDung16DoAnA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\ACER\\AndroidStudioProjects\\UngDung16DoAnA\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

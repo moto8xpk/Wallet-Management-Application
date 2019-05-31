@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vn.com.dtt.ungdung16doana"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="25" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bull_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="vn.com.dtt.ungdung16doana.BeforeLogOn.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="vn.com.dtt.ungdung16doana.LogOnActivity" />
+        <activity android:name="vn.com.dtt.ungdung16doana.Register.RegisterActivity" />
+        <activity android:name="vn.com.dtt.ungdung16doana.AfterLogOn.Ui1Activity" />
+        <activity android:name="vn.com.dtt.ungdung16doana.AfterLogOn.Account.AddAccountActivity" >
+        </activity>
+        <activity android:name="vn.com.dtt.ungdung16doana.AfterLogOn.AdminUIActivity" >
+        </activity>
+        <activity android:name="vn.com.dtt.ungdung16doana.AfterLogOn.Admin.AddWalletType" >
+        </activity>
+        <activity android:name="vn.com.dtt.ungdung16doana.AfterLogOn.Admin.AddCurrentMoney" >
+        </activity>
+        <activity android:name="vn.com.dtt.ungdung16doana.AfterLogOn.Admin.AddIncomeType" >
+        </activity>
+        <activity android:name="vn.com.dtt.ungdung16doana.AfterLogOn.Admin.AddOutcomeType" >
+        </activity>
+        <activity android:name="vn.com.dtt.ungdung16doana.AfterLogOn.Account.AccountsMainActivity" >
+        </activity>
+        <activity android:name="vn.com.dtt.ungdung16doana.AfterLogOn.Account.IncomeActivity" >
+        </activity>
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="vn.com.dtt.ungdung16doana.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

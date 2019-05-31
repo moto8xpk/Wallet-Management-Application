@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Change Pass"
+          android:id="@+id/menuChangePass"
+          android:orderInCategory="1"
+        ></item>
+    <item android:title="Log Out"
+          android:id="@+id/menuLogOut"
+          android:orderInCategory="2"
+        ></item>
+    <item android:title="Setting"
+          android:id="@+id/menuSetting"
+          android:icon="@drawable/settingtrang"
+          app:showAsAction="always"
+        ></item>
+    <item android:title="Exit"
+          android:id="@+id/menuExit"
+          android:orderInCategory="3"
+        ></item>
+</menu>
